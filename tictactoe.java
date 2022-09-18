@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class tictactoe {
     public static void main(String[] args) {
+        System.out.println("welcome to the game user.");
         Scanner sc=new Scanner(System.in);
         String player1="shubham";
         String player2="devang";
